@@ -1,1 +1,1 @@
-
+This project consists of a regression model that I built to identify the school characteristics and student demographics variables that best explain differences in math performance across K-8 school districts in California. 
